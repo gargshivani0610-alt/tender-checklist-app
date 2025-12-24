@@ -1,0 +1,12 @@
+Parameter,Value,Help
+Tender ID,,Enter a unique identifier
+Description,,Short description
+Department,,LPG/Lube/Engineering/Operations/Retail
+Tender Type,,Service / Works / Goods
+Tender Platform,,GeM or NIC
+Tender Category,,AMC / Lumpsum / LOT
+Criticality,,Critical or Non critical
+Is Standard Template,,Yes = standardized; No = tender-specific
+Reverse Auction,,Yes/No per RA circular
+Estimate Value (₹),,Numeric total estimate
+Contract Period (years),,Use 1 for non-AMC/Lumpsum; actual years for AMC

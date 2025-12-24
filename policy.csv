@@ -1,0 +1,5 @@
+RuleKey,Threshold
+ATO_pct,0.60
+SingleWO_pct,0.50
+TwoWO_pct,0.40
+ThreeWO_pct,0.30

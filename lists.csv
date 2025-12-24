@@ -1,0 +1,13 @@
+ListName,Value
+TenderType,Service
+TenderType,Works
+TenderType,Goods
+Platform,GeM
+Platform,NIC
+Category,AMC
+Category,Lumpsum
+Category,LOT
+Criticality,Critical
+Criticality,Non critical
+YesNo,Yes
+YesNo,No
